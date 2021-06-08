@@ -36,7 +36,7 @@ Note: We know this is a hard activity. We know you aren't yet comfortable with N
 
 * Create a set of routes for displaying the HTML pages
 
-* Use `fetch` to run AJAX calls to GET and POST data from users to the Express server
+* Use jQuery to run AJAX calls to GET and POST data from users to the Express server
 
 ---------------------
 
@@ -80,7 +80,7 @@ If you finish early begin creating the code necessary to convert your form data 
 
 Create the logic that handles reservation requests. Your code should work such that POST requests take in JSON objects, checks if there is any space left, then adds the JSON object to either the reservation array or the waitlist array. Your POST route should also respond to requests with a confirmation (true or false) of whether or not the requestor has a reservation (or is on the waiting list).
 
-You should be using Insomnia Core to do all your testing at this point.
+You should be using Postman to do all your testing at this point.
 
 * Frontend Team:
 
@@ -104,7 +104,7 @@ Then, thoroughly test your application for bugs. Check if there are any obvious 
 
 Then, if you have more time -- begin to tackle any bonus of your choice:
 
-* Add buttons for "checking off" individuals from the reservation list. Once this happens, the next person on the waitlist should be added to the main reservation list.
+* Add buttons for "checking off" individuals from the reservation list. Once this happens, the next person on the waitlist should be addd to the main reservation list.
 
 * Add code to your server so that it "counts" every time a person visits any of the pages. Display a running count on the website.
 

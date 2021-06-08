@@ -1,14 +1,15 @@
-# 16 Project 2: Professional Materials
+# Unit 16 Project 2 Homework: Professional Materials
 
-Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
+Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
 
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but it's also *critical* on your journey as a developer.
+If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
 
-## Homework Requirements
 
-* Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks
+## Requirements
 
-* Update GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks
+* Updated portfolio featuring projects 1 and 2 and at least four exemplary homework assignments. 
+
+* Update GitHub profile with pinned repositories featuring projects 1 and 2 and four exemplary assignments. 
 
 * Updated resume
 
@@ -18,8 +19,8 @@ If you are opting out of career services, this is *still a required assignment*.
 ## Grading
 
 | Requirement      | Weight |
-| ---------------- | ------ |
-| Portfolio        | 40%    |
+|---               |---     |
+| Portoflio        | 40%    |
 | GitHub Profile   | 40%    |
 | Resume           | 10%    |
 | LinkedIn Profile | 10%    |
@@ -28,105 +29,82 @@ If you are opting out of career services, this is *still a required assignment*.
 ## Instructions
 
 1. [Updated Portfolio](#updated-portfolio)
-
-2. [Updated GitHub Profile](#updated-github-profile)
-
+2. [GitHub Profile](#updated-github-profile)
 3. [Updated Resume](#updated-resume)
-
 4. [Updated LinkedIn](#updated-linkedin)
 
-## Updated Portfolio
+### Updated Portfolio
 
-💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
+Your updated site should have the following content:
 
-Your updated portfolio should:
+* Your name
 
-1. Display your contact information. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email, and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
+* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
 
-2. Have links to your GitHub profile and LinkedIn profile
+* A link to a PDF of your resume
 
-3. Have a link to a downloadable PDF of your resume
+* A list of projects. For each project, make sure you have the following:
 
-4. Display at least 3 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
+  * Project title
 
-	* Project title
+  * Link to the deployed version
 
-	* Link to the deployed version
+  * Link to the GitHub repository
 
-	* Link to the GitHub repository
-
-	* Screenshot of the deployed application
-
-5. Have a polished, mobile-responsive user interface.
+  * Screenshot of the deployed application
 
 
-### Design
+#### Design
 
 Unfortunately, this is where it gets a little bit subjective. Your site should look
 "polished." Here are a few guidelines on what that means:
 
 * Mobile-first design
 
-* Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
+* Choose a color palette for your site so it doesn't just look like
+the default bootstrap theme or an unstyled HTML site.
 
 * Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
 
-## Updated GitHub Profile 
+### Updated GitHub Profile 
 
-Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
+* If you haven't yet, now is the time to update the following in your GitHub profile: 
 
-Your GitHub profile must contain at least the following items:
+    * Profile picture
 
-1. Profile picture or avatar
+    * Bio
 
-	* A photo or an avatar other than the default Github identicon. (a semi-professional to professional photo or an avatar photo are preferred)
+    * Location
 
-2. Biography
+    * Email
 
-3. Email address. If you don't want to share your personal email or phone number, use a developer email.
+    * Link to your portfolio
 
-4. Link to your deployed portfolio
+* Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
 
-5. At least 2 pinned repositories:
+* Pin some repos that you want to highlight
 
-	* Navigate to [GitHub](https://github.com/) and go to your profile.
+  * Navigate to [GitHub](https://github.com/) and go to your profile.
 
-	* Click "Customize your pins"
+  * Click "Customize your pins"
 
-	* Click the checkboxes for your project and 2-3 homework assignments that you would like to share
+  * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
 
-6. Follow a few of your classmates and/or other developers. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
+  * Make sure each of these projects is deployed and add a link to the deployed project in their README files
 
-7. README files. Every pinned project should contain a README file with:
+* Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
 
-	* Title of app
 
-	* Live link to deployed app
+### Updated Resume 
 
-	* List of technologies used
+Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
 
-	* 1-2 sentences explaining what the app is
 
-	* 2-3 Screenshots / gifs of the app
-
-	* License (usually MIT)
-
-	* Contact information for you and any collaborators
-
-8. Commit history. Every pinned repository should have at least 20 commits.
-
-## Updated Resume 
-
-💁 Need help building a resume? Check out the [Career Services milestone resources](https://mycareerspot.org/resume).
-
-Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
-
-## Updated LinkedIn 
-
-💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
+### Updated LinkedIn Profile 
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
+
 - - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
